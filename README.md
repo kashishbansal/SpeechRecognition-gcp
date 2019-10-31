@@ -39,4 +39,5 @@ AND FINALLY IT SHOWS WHAT YOU SPOKE....
   <li>-- python sr_nlp_gcp.py ---</li>
   </ul>
   
+  Thank You.
   HAVE FUN,ENJOY`!!!
